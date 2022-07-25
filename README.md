@@ -1,5 +1,5 @@
 # react-calculator
 Calculator app created using React JS
 
-# live url
+# netlify url
 https://panchal-calculator.netlify.app/
